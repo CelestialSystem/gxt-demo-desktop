@@ -10,11 +10,11 @@
 
   <properties>
     <!-- GXT -->
-    <gxt.version>4.0.4-SNAPSHOT</gxt.version>
+    <gxt.version>4.2.0</gxt.version>
 
     <!-- GWT -->
-    <gwt.version>2.8.2</gwt.version>
-    <gwt.maven.version>2.8.2</gwt.maven.version>
+    <gwt.version>4.2.0</gwt.version>
+    <gwt.maven.version>4.2.0</gwt.maven.version>
     <gwt.style>OBF</gwt.style>
 
     <!-- App Engine ID -->
@@ -33,7 +33,7 @@
        with -Dlicense=eval or gpl with  -Dlicense=gpl -->
     <license>commercial</license>
     <license.fromYear>2006</license.fromYear>
-    <license.thruYear>2018</license.thruYear>
+    <license.thruYear>2024</license.thruYear>
     <license.email>licensing@sencha.com</license.email>
     <license.url>http://www.sencha.com/products/gxt/license/</license.url>
   </properties>
